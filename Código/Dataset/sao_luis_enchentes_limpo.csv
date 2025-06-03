@@ -1,0 +1,53 @@
+precipitacao_mm,intensidade_chuva,duracao_chuva,mare,bairro,topografia,drenagem,enchente
+85.2,intensa,6h+,alta,Centro,baixa,inadequada,True
+45.1,moderada,2-6h,média,Vinhais,média,adequada,False
+92.7,intensa,6h+,alta,João Paulo,baixa,inadequada,True
+23.5,fraca,<2h,baixa,Renascença,alta,adequada,False
+67.8,intensa,2-6h,média,Cohama,baixa,regular,True
+15.2,fraca,<2h,baixa,Alemanha,média,regular,False
+76.3,intensa,6h+,alta,São Francisco,baixa,inadequada,True
+38.9,moderada,2-6h,baixa,Calhau,baixa,regular,False
+55.1,intensa,2-6h,alta,Centro,baixa,inadequada,True
+29.7,fraca,2-6h,média,Vinhais,média,adequada,False
+102.4,intensa,6h+,alta,João Paulo,baixa,inadequada,True
+8.3,fraca,<2h,baixa,Renascença,alta,adequada,False
+71.6,intensa,6h+,média,Centro,baixa,inadequada,True
+44.2,moderada,2-6h,média,Cohama,baixa,regular,False
+89.5,intensa,6h+,alta,São Francisco,baixa,inadequada,True
+19.8,fraca,<2h,baixa,Alemanha,média,regular,False
+63.2,intensa,2-6h,alta,Calhau,baixa,regular,True
+32.1,moderada,2-6h,baixa,Vinhais,média,adequada,False
+78.9,intensa,6h+,alta,Centro,baixa,inadequada,True
+12.4,fraca,<2h,baixa,Renascença,alta,adequada,False
+54.7,intensa,2-6h,média,João Paulo,baixa,inadequada,True
+41.3,moderada,2-6h,média,Cohama,baixa,regular,False
+95.1,intensa,6h+,alta,São Francisco,baixa,inadequada,True
+26.8,fraca,2-6h,baixa,Alemanha,média,regular,False
+69.4,intensa,6h+,média,Centro,baixa,inadequada,True
+35.6,moderada,2-6h,baixa,Calhau,baixa,regular,False
+81.7,intensa,6h+,alta,João Paulo,baixa,inadequada,True
+17.9,fraca,<2h,baixa,Vinhais,média,adequada,False
+58.3,intensa,2-6h,alta,Cohama,baixa,regular,True
+21.5,fraca,<2h,baixa,Renascença,alta,adequada,False
+73.8,intensa,6h+,alta,São Francisco,baixa,inadequada,True
+39.2,moderada,2-6h,média,Alemanha,média,regular,False
+87.6,intensa,6h+,alta,Centro,baixa,inadequada,True
+14.7,fraca,<2h,baixa,Calhau,baixa,regular,False
+61.9,intensa,2-6h,média,João Paulo,baixa,inadequada,True
+28.4,fraca,2-6h,baixa,Vinhais,média,adequada,False
+93.3,intensa,6h+,alta,Cohama,baixa,regular,True
+18.1,fraca,<2h,baixa,Renascença,alta,adequada,False
+75.5,intensa,6h+,alta,São Francisco,baixa,inadequada,True
+42.8,moderada,2-6h,média,Alemanha,média,regular,False
+66.2,intensa,2-6h,alta,Centro,baixa,inadequada,True
+31.7,moderada,2-6h,baixa,Calhau,baixa,regular,False
+88.9,intensa,6h+,alta,João Paulo,baixa,inadequada,True
+13.6,fraca,<2h,baixa,Vinhais,média,adequada,False
+52.4,intensa,2-6h,média,Cohama,baixa,regular,True
+24.9,fraca,<2h,baixa,Renascença,alta,adequada,False
+79.1,intensa,6h+,alta,São Francisco,baixa,inadequada,True
+37.3,moderada,2-6h,média,Alemanha,média,regular,False
+84.6,intensa,6h+,alta,Centro,baixa,inadequada,True
+16.2,fraca,<2h,baixa,Calhau,baixa,regular,False
+59.8,intensa,2-6h,alta,João Paulo,baixa,inadequada,True
+33.5,moderada,2-6h,baixa,Vinhais,média,adequada,False
