@@ -25,7 +25,7 @@ GX_REDES_BAYESIANAS/
 
 O código não só constrói uma rede bayesiana automaticamente a partir dos dados, como também realiza inferência e avaliação, mostrando como este tipo de modelo pode ser usado tanto para previsão quanto para análise probabilística.
 
-🚀 ## **Como Executar**
+ ## **🚀 Como Executar**
 Google Colab (Recomendado)
 Abra o notebook no Google Colab
 Execute todas as células na ordem
