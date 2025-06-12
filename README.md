@@ -21,20 +21,11 @@ GX_REDES_BAYESIANAS/
 ```
 
 
-## **📊 Algoritmos Utilizados**
-
-* Regressão Logística
-* K-Nearest Neighbors (KNN)
-* Support Vector Machines (SVM)
-* Random Forest
-* Hill Climb Search
-* Construção automática de Redes Bayesianas
-
 ## **📈 Resultados**
 
 O código não só constrói uma rede bayesiana automaticamente a partir dos dados, como também realiza inferência e avaliação, mostrando como este tipo de modelo pode ser usado tanto para previsão quanto para análise probabilística.
 
-🚀 ## **Como Executar**
+ ## **🚀 Como Executar**
 Google Colab (Recomendado)
 Abra o notebook no Google Colab
 Execute todas as células na ordem
@@ -46,11 +37,9 @@ Execute todas as células na ordem
 
 ---
 
-## **ANEXO A**
-
 ### **Reconhecimentos e Direitos Autorais**
 
-**@autor:** Juan Pablo, João Henrique e João Victor  
+**@autor:** Euderlan Freire, Hissa Bárbara, Lucas Silva e Maria Clara. 
 **@contato:** [Seus Emails - se quiserem]  
 **@data última versão:** 12 de junho de 2025  
 **@versão:** 1.0  
@@ -75,4 +64,4 @@ Para mais informações sobre a Licença MIT: https://opensource.org/licenses/MI
 
 ---
 
-Feito com ❤️ por **Juan Pablo**, **João Henrique** e **João Victor**. Sinta-se à vontade para contribuir e dar feedback!
+Feito com ❤️ por **Euderlan Freire**, **Hissa Bárbara**, **Lucas Silva** e **Maria Clara**. Sinta-se à vontade para contribuir e dar feedback!
