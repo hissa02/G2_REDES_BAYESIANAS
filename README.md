@@ -39,8 +39,8 @@ Execute todas as células na ordem
 
 ### **Reconhecimentos e Direitos Autorais**
 
-**@autor:** Euderlan Freire, Hissa Bárbara, Lucas Silva e Maria Clara. 
-**@contato:** [Seus Emails - se quiserem]  
+**@autor:** ¹Euderlan Freire - ²Hissa Bárbara - ³Lucas Silva - Maria Clara. 
+**@contato:** [³computer.lucas2@gmail.com]  
 **@data última versão:** 12 de junho de 2025  
 **@versão:** 1.0  
 **@outros repositórios:** [URLs - apontem para os seus Gits AQUI]  
